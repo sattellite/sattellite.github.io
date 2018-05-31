@@ -1,0 +1,9 @@
+{
+  "short_name": "STL",
+  "name": "sattellite home page",
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/",
+  "background_color": "#0070fe",
+  "theme_color": "#0070fe"
+}
